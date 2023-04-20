@@ -1,0 +1,20 @@
+{
+   "contatti":[
+      {
+         "nome":"AAAAAAA",
+         "numero":"3333409872"
+      },
+      {
+         "nome":"Riccardo",
+         "numero":"3386301100"
+      },
+      {
+         "persona":{
+            "nome":"alessandra",
+            "cognome":"rossi",
+            "via":"via po 23"
+         },
+         "numero":"3664153172"
+      }
+   ]
+}
